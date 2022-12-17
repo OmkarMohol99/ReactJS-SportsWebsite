@@ -1,0 +1,25 @@
+.parent-ls {
+  position: absolute;
+  bottom: 30%;
+  right: 50%;
+  /* background-color: #9fa2cc; */
+  color: white;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+.topHeading {
+  color: white;
+  background-color: red;
+  top: 50%;
+  width: 100%;
+  text-align: center;
+}
+
+/* .child-ls {
+  background-color: orange;
+} */
+
+/* .parent-image {
+  position: relative;
+} */
